@@ -1,6 +1,6 @@
 ![image](assets/Title.png)
 
-__________________________________![Simulator Screen Recording - iPhone 14 Pro Max - 2023-08-06 at 21 34 21](https://github.com/Dexter-s-Laboratory/Superbox/assets/104655832/61dbf020-a35c-40f5-bedc-4fef3d41cde6) ___________________________________
+__________________________________![Simulator Screen Recording - iPhone 14 Pro Max - 2023-08-06 at 21 34 21](https://github.com/Dexter-s-Laboratory/Superbox/assets/104655832/61dbf020-a35c-40f5-bedc-4fef3d41cde6) ______________________________
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
