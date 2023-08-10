@@ -29,11 +29,16 @@ This project is an MVP for a feature-rich mobile application. The scale and nece
 * [Muzammil Waheed](https://github.com/muzammilwaheedisme) - Full Stack Software Engineer
 
 > # Table of Contents
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Features](#features)
-4. [Tech Stack](#tech-stack)
+1. [Wire Frame](#wireframe)
+2. [Features](#features)
+3. [Tech Stack](#tech-stack)
+4. [Getting Started](#getting-started)
 5. [API Documentation](#api-documentation)
+
+## Wire Frame
+<img width="580" alt="Screenshot 2023-08-09 at 8 35 45 PM" src="https://github.com/mexicanpepe/Superbox/assets/104655832/4e0267c1-8b57-4601-823b-9fe122b3de00">
+https://excalidraw.com/#room=690709ae8bdeeb6f66f9,UVjiTLfaT3dmy3Vn0EyL3g
+
 
 ## Features
 * Sign In / Sign Up
